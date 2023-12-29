@@ -1,0 +1,21 @@
+{
+  "name": "e4gs-common-utilities",
+  "version": "1.0.16",
+  "description": "a common utilities package for proyects on E4GS Labs company ",
+  "main": "main.js",
+  "typings": "main.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cd .. && tsc"
+  },
+  "keywords": [
+    "e4gs",
+    "common",
+    "utilities"
+  ],
+  "author": "Alex Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
